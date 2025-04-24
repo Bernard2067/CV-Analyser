@@ -1,0 +1,23 @@
+John Doe
+Email: john.doe@example.com
+Phone: 555-1234
+
+Professional Summary:
+A dedicated software developer with 3+ years of experience in full-stack development.
+
+Skills:
+Java, Python, HTML, CSS, JavaScript, Git, SQL, Spring Boot, Agile methodologies
+
+Education:
+BSc in Computer Science, University of TechVille, 2020
+
+Work Experience:
+Software Developer, TechCorp
+June 2021 - Present
+- Developed internal tools using Java and Spring Boot
+- Collaborated with frontend team on React interfaces
+
+Junior Developer, CodeSquad
+July 2020 - May 2021
+- Built REST APIs and integrated third-party libraries
+- Wrote unit tests and participated in Agile sprints

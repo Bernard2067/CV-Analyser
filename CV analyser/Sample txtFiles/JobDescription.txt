@@ -1,0 +1,20 @@
+Job Title: Full-Stack Java Developer
+
+We are looking for a skilled and motivated Full-Stack Developer to join our dynamic team.
+
+Key Responsibilities:
+- Develop and maintain web applications using Java and Spring Boot
+- Collaborate with frontend developers working with HTML/CSS and JavaScript
+- Participate in code reviews and Agile ceremonies
+
+Skills Required:
+Java, Spring Boot, HTML, CSS, JavaScript, REST APIs, Git
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- At least 2 years of software development experience
+- Knowledge of Agile development practices
+
+Preferred:
+- Experience with SQL and frontend frameworks
+- Familiarity with Python is a plus
