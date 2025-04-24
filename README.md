@@ -8,6 +8,7 @@ When running the project it will prompt you with 3 options
 [3] To exit the program once done with it
 
 -------------------------------1. Entering a new CV - Job Description comparison----------------------------
+
 Being prompted with 1 when in the menu will take the user to the CV analysis portion
 
 When entering the CV/resume of the applicant it will need to include the full file path (including the file
@@ -29,6 +30,7 @@ description
 A sample CV and job description can be found in the "Sample txtFiles" folder to be used if testing the code.
 
 --------------------------------2. Viewing the database to see results--------------------------------------
+
 Being prompted with 2 when in the menu will result in the user being shown the SqlLite database containing
 the results of the CV analysis portion of the program. 
 
@@ -37,6 +39,7 @@ application description as well as see their email that was found in the CV/resu
 their score was ideal for the job position.
 
 -----------------------------------------3. Exiting the program---------------------------------------------
+
 Being prompted with 3 when in the meny section will result in the program ending, the SqlLite database is
 local meaning that even if the program is closed you will still be able to view the database when next
 opening the program.
