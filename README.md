@@ -1,4 +1,4 @@
---------------------------------README File for CV Analyser of Student 2406530------------------------------
+--------------------------------README File for CV Analyser-------------------------------------------------
 
 Welcome to my CV analyser project!
 
